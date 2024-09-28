@@ -11,6 +11,9 @@
 ### Project Overview
 This interactive dashboard was developed to predict customer defaults based on their credit card transaction history. It includes multiple machine learning models: Decision Tree, Logistic Regression, and K-Nearest Neighbors (KNN). The dashboard provides visual insights and allows users to interactively input customer data to predict the likelihood of default.
 
+![Customer Data Stats](https://github.com/user-attachments/assets/c01e2997-d8ed-452e-a9f3-fb345b536f8e)
+![decision tree model](https://github.com/user-attachments/assets/a1f0a202-af9b-4961-9163-7b6e038231e5)
+
 ### Key Features:
 - Exploratory Data Analysis (EDA): Visual insights into demographic data and default patterns.
 - Predictive Models: Implements Decision Tree, Logistic Regression, and KNN models, each with visualizations showing model performance and predictions.
