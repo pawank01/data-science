@@ -9,7 +9,7 @@
 - [Model Evaluation](#model-evaluation)
 
 ### Project Overview
-This interactive dashboard was developed to predict customer defaults based on their credit card transaction history. It includes multiple machine learning models: Decision Tree, Logistic Regression, and K-Nearest Neighbors (KNN). The dashboard provides visual insights and allows users to interactively input customer data to predict the likelihood of default.
+This PowerBI dashboard was developed to predict customer defaults based on their credit card transaction history. It includes multiple statistical models: Decision Tree, Logistic Regression, and K-Nearest Neighbors (KNN). The dashboard provides visual insights and allows users to interactively input customer data to predict the likelihood of default.
 
 ![Customer Data Stats](https://github.com/user-attachments/assets/c01e2997-d8ed-452e-a9f3-fb345b536f8e)
 ![decision tree model](https://github.com/user-attachments/assets/a1f0a202-af9b-4961-9163-7b6e038231e5)
